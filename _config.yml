@@ -6,11 +6,9 @@ image_thumbs_loc: "/images/thumbs"
 # UI configs
 title: "Photography"
 subtitle: "playing around"
-author: "Alex Bijamov"
+author: "hemmul"
 header:
  title: "Photography"
- subtitle: "by Alex Bijamov"
+ subtitle: "by hemmul"
 footer:
- name: "Thanks for stopping by"
-social_urls:
-  github: "https://github.com/hammerhaifisch/"
+ name: "Thanks for stopping by!"
