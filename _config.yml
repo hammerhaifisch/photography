@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "hemmul.com"
+baseurl: "http://www.hemmul.com/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
